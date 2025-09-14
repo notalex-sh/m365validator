@@ -12,12 +12,12 @@ This project requires Python 3 and Git.
 
 1.  **Clone the Repository:** Open your terminal and clone the project repository from GitHub.
     ```bash
-    git clone https://github.com/notalex-sh/o365_recon.git
+    git clone https://github.com/notalex-sh/o365-recon.git
     ```
 
 2.  **Navigate to the Directory:** Change into the newly created project folder.
     ```bash
-    cd o365_recon
+    cd o365-recon
     ```
 
 3.  **Install Dependencies:** Install the necessary packages using the `requirements.txt` file.
