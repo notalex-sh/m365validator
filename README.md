@@ -17,7 +17,7 @@ This project requires Python 3 and Git.
 
 2.  **Navigate to the Directory:** Change into the newly created project folder.
     ```bash
-    cd O365-Recon
+    cd o365_recon
     ```
 
 3.  **Install Dependencies:** Install the necessary packages using the `requirements.txt` file.
