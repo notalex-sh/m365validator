@@ -19,7 +19,7 @@ import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 class AnsiColors:
-    """ANSI color codes for stylish terminal output."""
+    # ANSI color codes for stylish terminal output
     GREEN = '\033[92m'
     YELLOW = '\033[93m'
     RED = '\033[91m'
